@@ -2,6 +2,7 @@
 
 A little fail-safe filesystem designed for embedded systems.
 
+
 ```
    | | |     .---._____
   .-----.   |          |
@@ -10,6 +11,7 @@ A little fail-safe filesystem designed for embedded systems.
   '-----'   '----------'
    | | |
 ```
+
 
 **Bounded RAM/ROM** - The littlefs is designed to work with a limited amount
 of memory. Recursion is avoided and dynamic memory is limited to configurable
